@@ -1,0 +1,4 @@
+applicationconfiguration.host=http://localhostport=3305
+applicationconfiguration.username=kaushal
+applicationconfiguration.password=kaushalender
+applicationconfiguration.port=3305
